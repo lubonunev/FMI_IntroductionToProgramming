@@ -1,5 +1,5 @@
 # FMI_IntroductionToProgramming
-Repository for the practicum exercises of the Introduction to Programming course (2025–2026) 
+**Repository for the practicum exercises of the Introduction to Programming course (2025–2026)** 
 
 *FACULTY OF MATHEMATICS AND INFORMATICS,  SOFIA UNIVERSITY (2025–2026)* 
 
